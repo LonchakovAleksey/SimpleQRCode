@@ -1,0 +1,16 @@
+﻿[PopupMenu1]
+Coordinates=180,78,90,36
+
+[pu_copy]
+Coordinates=199,133,63,36
+
+[ImageQR]
+Coordinates=10,78,69,58
+
+[Panel1]
+Coordinates=98,10,55,58
+
+[]
+Coordinates=10,10,78,58
+Visible=True
+

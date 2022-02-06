@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.004,=C:\Users\Заведующая\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,=C:\Projects\SimpleQRCode\BitBuffer.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Projects\SimpleQRCode\QrSegment.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,=C:\Projects\SimpleQRCode\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Projects\SimpleQRCode\QrCode.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,=C:\Users\Заведующая\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Projects\SimpleQRCode\SimpleQRCode.cbproj=C:\Users\Заведующая\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
